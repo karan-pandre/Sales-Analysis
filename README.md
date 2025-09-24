@@ -22,5 +22,5 @@ This repository contains an exploratory data analysis (EDA) of a USA regional sa
 ## Live report
 You can view an interactive version of the Power BI report here:
 
-[View the live report on Power BI]([https://app.powerbi.com/view?r=eyJrIjoiNzkzOGM0MDYtY2MyNS00N2UwLWExM2QtNDQxNGU4MjFkNTNiIiwidCI6IjZiYWI3NzY1LWMzODctNGQwZC05YmU3LTdmNTY3OTI1MTU5NCIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true](https://app.powerbi.com/view?r=eyJrIjoiNzkzOGM0MDYtY2MyNS00N2UwLWExM2QtNDQxNGU4MjFkNTNiIiwidCI6IjZiYWI3NzY1LWMzODctNGQwZC05YmU3LTdmNTY3OTI1MTU5NCIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true))
+[View the live report on Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzkzOGM0MDYtY2MyNS00N2UwLWExM2QtNDQxNGU4MjFkNTNiIiwidCI6IjZiYWI3NzY1LWMzODctNGQwZC05YmU3LTdmNTY3OTI1MTU5NCIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true))
 
