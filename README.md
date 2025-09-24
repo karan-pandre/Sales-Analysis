@@ -19,16 +19,8 @@ This repository contains an exploratory data analysis (EDA) of a USA regional sa
 2. Open `EDA_Regional_Sales_Analysis.ipynb` in Jupyter Notebook or JupyterLab.
 3. Ensure `Regional Sales Dataset.xlsx` is in the repo root (already included). Run the notebook cells.
 
-## Notes
-- Colab-specific mounting references were removed so the notebook runs locally from the included Excel file.
-
----
-
-If you want, I can also create a minimal `requirements.txt` and clear notebook outputs before you push to GitHub.
-
 ## Live report
 You can view an interactive version of the Power BI report here:
 
 [View the live report on Power BI]([https://app.powerbi.com/view?r=eyJrIjoiNzkzOGM0MDYtY2MyNS00N2UwLWExM2QtNDQxNGU4MjFkNTNiIiwidCI6IjZiYWI3NzY1LWMzODctNGQwZC05YmU3LTdmNTY3OTI1MTU5NCIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true](https://app.powerbi.com/view?r=eyJrIjoiNzkzOGM0MDYtY2MyNS00N2UwLWExM2QtNDQxNGU4MjFkNTNiIiwidCI6IjZiYWI3NzY1LWMzODctNGQwZC05YmU3LTdmNTY3OTI1MTU5NCIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true))
 
-Note: A local copy of the report (`SALES REPORT.pbix`) is also included in the repository and a copy was placed on your Desktop for local inspection.
