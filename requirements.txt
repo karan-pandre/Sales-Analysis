@@ -1,0 +1,24 @@
+pandas>=1.2
+numpy>=1.21
+matplotlib
+seaborn
+plotly
+openpyxl
+nbformat
+jupyter
+python-pptx
+
+# Optional: pin exact versions before publishing if you need strict reproducibilitypandas>=1.2
+numpy
+matplotlib
+seaborn
+plotly
+python-pptx
+pandas>=1.2
+numpy>=1.21
+matplotlib
+seaborn
+plotly
+openpyxl
+nbformat
+jupyter
